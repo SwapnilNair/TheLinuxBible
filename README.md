@@ -1,5 +1,5 @@
 # TheLinuxBible
-The guide to everything Linux you need at PES
+The guide to everything Linux you need at PES. More stuff to be added later :)
 
 - - -
 ## WHICH DISTRO SHOULD I USE ?
